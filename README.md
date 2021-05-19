@@ -17,8 +17,8 @@ The application classifies the minutes in which the user has cooked. The dataset
 
 ## Score:
 
-* Recall: 80%
-* Precision: 80%
-* F1: 80%
+* Recall: >80%
+* Precision: >80%
+* F1: >80%
 
 *consider 5-minutes granularity in annotation phase*
